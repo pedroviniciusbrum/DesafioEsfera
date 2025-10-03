@@ -51,7 +51,7 @@ Aplicação para buscar informações de CNPJs a partir de uma API externa, salv
 
 ### 3️⃣ Configurar o Frontend (Flutter Web)
     1 Vá para a pasta frontend:
-        cd ../frontend
+        cd ../frontend/findcnpj
 
     2 Instale as dependências:
         flutter pub get
